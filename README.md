@@ -1,2 +1,1 @@
-my first readme
-is now up to date in alx school
+My first readme
