@@ -1,3 +1,2 @@
 my first readme
-up to date file
-alx scool on going
+is now up to date in alx school
